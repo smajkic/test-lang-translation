@@ -1,1 +1,8 @@
-{}
+{	"Shared": {
+		"Cancel": "Cancel",
+		"Copy": "Copy",
+		"Copying": "Copying...",
+		"Oops" : "Oops!",
+		"Retry": "Retry"
+	}
+}
